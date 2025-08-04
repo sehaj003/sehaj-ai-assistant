@@ -1,0 +1,34 @@
+name: Sehaj (Sam) Malhotra
+education:
+  - degree: Master's in Data Analytics Engineering
+    university: Northeastern University
+    year: 2025
+    gpa: 3.8/4.0
+  - degree: Bachelor's in Computer Science Engineering
+    university: GGSIPU
+    year: 2023
+    gpa: 8.8/10
+
+experience:
+  - title: Data Analyst Intern
+    company: DataTouch Solutions
+    details: Stored transformed data in MySQL databases and performed analytical queries to extract insights for business decisions. Designed and deployed ETL pipelines using Apache Airflow, transforming over 5 TB of data from diverse sources. Interacted with stakeholders to gather business requirements leading to 70% improvement in process efficiency. Developed data visualization and reports using Tableau, identifying potential risks in the data leaks and security threats.
+
+  - title: Product Analyst
+    company: Shree Adisoft
+    details: Extracted cleaned and analyzed market data from over 100+ web sources using, Pandas, and NumPy, ensuring data integrity.Analyzed competitor strategies and provide actionable recommendations, contributing to 50% increase in sales. Streamlined data cleaning processes using VBA Macros, resulting in a 30% improvement in data quality and accuracy. Developed 45+ detailed reports and dashboards using Tableau, enabling stakeholders to visualize key findings and trends.
+
+
+skills:
+  technical: [Python, SQL, Power BI, Tableau, Pandas, Scikit-learn]
+  soft: [Communication, Collaboration, Analytical Thinking]
+
+projects:
+  - title: Bible NLP Text Analysis
+    description: Built an NLP pipeline to analyze word frequency across Bible books using Bible API data. Cleaned and preprocessed text with tokenization, stop-word removal, and lemmatization. Conducted EDA with bar charts, word clouds, and book-wise word usage comparisons. Deployed an interactive Streamlit app for dynamic exploration of biblical text insights.
+    technologies: [Python, Scikit-learn]
+  - title: Roster Planning System
+    description: Collected and processed over 2000 rows of data from ESPN to structure 11 distinct tables for player and team analytics. Used MySQL to create relational database. Integrated NoSQL (MongoDB) for flexible data storage and Python-based application for database access and analysis. Used Python (Matplotlib, Seaborn) for data visualization, providing analytics to support team planning and decision making.
+    technologies: [MySQL, Power BI]
+
+interests: [Product Management, Stock Market Investing, Writing, Psychology]
